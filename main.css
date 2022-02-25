@@ -1,0 +1,39 @@
+body {
+    background-color: #6B818C;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+main {
+    display: flex;
+}
+
+.headshot {
+    padding-left: 1em;
+}
+
+.header {
+    background-color: blanchedalmond;
+    border-style: dotted;
+    border-color: #CC2936;
+    margin: 1em;
+}
+
+.section1 {
+    flex-shrink: 4;
+    background-color: blanchedalmond;
+    margin: 0 2em 0 0;
+    border-radius: 2em;
+}
+
+.listGroup {
+    background-color: blanchedalmond;
+    padding: 1em;
+    border-radius: 2em;
+    
+}
+p {
+    font-weight: bolder;
+}
+
+ul {
+    font-weight: bolder;
+}
